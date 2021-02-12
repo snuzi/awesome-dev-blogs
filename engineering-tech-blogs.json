@@ -1,8 +1,8 @@
-{
+[
     {
         "title": "Facebook",
         "id": "facebook",
         "rssFeed": "https://code.fb.com/feed",
         "blogUrl": "https://code.facebook.com/posts/"
     }
-}
+]
