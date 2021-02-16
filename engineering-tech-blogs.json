@@ -4,5 +4,11 @@
         "id": "facebook",
         "rssFeed": "https://code.fb.com/feed",
         "blogUrl": "https://code.facebook.com/posts/"
+    },
+     {
+        "title": "Netflix",
+        "id": "netflix",
+        "rssFeed": "https://netflixtechblog.com/feed",
+        "blogUrl": "https://netflixtechblog.com"
     }
 ]
