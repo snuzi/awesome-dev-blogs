@@ -10,5 +10,11 @@
         "id": "netflix",
         "rssFeed": "https://netflixtechblog.com/feed",
         "blogUrl": "https://netflixtechblog.com"
+    },
+    {
+        "title": "Airbnb",
+        "id": "airbnb",
+        "rssFeed": "https://medium.com/feed/airbnb-engineering",
+        "blogUrl": "https://medium.com/airbnb-engineering"
     }
 ]
