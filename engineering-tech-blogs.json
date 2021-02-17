@@ -16,5 +16,18 @@
         "id": "airbnb",
         "rssFeed": "https://medium.com/feed/airbnb-engineering",
         "blogUrl": "https://medium.com/airbnb-engineering"
+    },
+    {
+        "title": "Github",
+        "id": "github",
+        "rssFeed": "https://github.blog/category/engineering/feed/",
+        "blogUrl": "https://github.blog/category/engineering"
+    },
+    {
+        "title": "Zalando",
+        "id": "zalando",
+        "rssFeed": "https://engineering.zalando.com/atom.xml",
+        "blogUrl": "https://engineering.zalando.com"
     }
+    
 ]
