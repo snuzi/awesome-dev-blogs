@@ -10,8 +10,17 @@ Awesome blogs
 
 ### Engineering
 
+#### A Engineering
+* Airbnb https://medium.com/airbnb-engineering
+
 #### F Engineering
 * Facebook https://code.facebook.com/posts/
 
+#### G Engineering
+* Github https://github.blog/category/engineering
+
 #### N Engineering
 * Netflix https://netflixtechblog.com/
+
+#### Z Engineering
+* Zalando https://engineering.zalando.com
