@@ -28,6 +28,11 @@
         "id": "zalando",
         "rssFeed": "https://engineering.zalando.com/atom.xml",
         "blogUrl": "https://engineering.zalando.com"
-    }
-    
+    },
+    {
+        "title": "Docker",
+        "id": "docker",
+        "rssFeed": "https://www.docker.com/blog/category/engineering/feed/",
+        "blogUrl": "https://www.docker.com/blog/category/engineering"
+    } 
 ]
