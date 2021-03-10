@@ -2,7 +2,7 @@
 Awesome blogs
 
 ## Contribute
-1. Add tech engineering blogs [awesome-blogs](https://github.com/snuzi/awesome-blogs)
+1. Add tech engineering blogs [awesome-tech-blogs](https://github.com/snuzi/awesome-tech-blogs)
 
 2. Frontend application [engineering-blogs-app](https://github.com/snuzi/engineering-blogs-app)
 
