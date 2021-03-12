@@ -1,4 +1,4 @@
-# awesome-blogs
+# awesome-tech-blogs
 Awesome blogs
 
 ## Contribute
