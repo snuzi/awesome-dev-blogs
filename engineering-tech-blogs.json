@@ -82,6 +82,11 @@
         "id": "uber",
         "rssFeed": "https://eng.uber.com/feed/",
         "blogUrl": "https://eng.uber.com"
+    },
+    {
+        "title": "Square",
+        "id": "square",
+        "rssFeed": "https://medium.com/feed/square-corner-blog",
+        "blogUrl": "https://corner.squareup.com/"
     }
-    
 ]
