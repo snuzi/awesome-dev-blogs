@@ -34,5 +34,54 @@
         "id": "docker",
         "rssFeed": "https://www.docker.com/blog/category/engineering/feed/",
         "blogUrl": "https://www.docker.com/blog/category/engineering"
-    } 
+    },
+    {
+        "title": "AWS",
+        "id": "aws",
+        "rssFeed": "https://aws.amazon.com/blogs/aws/feed/",
+        "blogUrl": "https://aws.amazon.com/blogs/aws/"
+    },
+    {
+        "title": "Asana",
+        "id": "asana",
+        "rssFeed": "https://blog.asana.com/category/eng/feed/",
+        "blogUrl": "https://blog.asana.com/category/eng/"
+    },
+     {
+        "title": "Dropbox",
+        "id": "dropbox",
+        "rssFeed": "https://dropbox.tech/feed/",
+        "blogUrl": "https://dropbox.tech/"
+    },
+    {
+        "title": "Medium",
+        "id": "medium",
+        "rssFeed": "https://medium.engineering/feed",
+        "blogUrl": "https://medium.com/medium-eng"
+    },
+    {
+        "title": "Paypal",
+        "id": "paypal",
+        "rssFeed": "https://medium.com/feed/paypal-engineering",
+        "blogUrl": "https://medium.com/paypal-engineering"
+    },
+    {
+        "title": "Redhat",
+        "id": "redhat",
+        "rssFeed": "https://developers.redhat.com/blog/feed/",
+        "blogUrl": "https://developers.redhat.com/blog/"
+    },
+    {
+        "title": "Runtastic",
+        "id": "runtastic",
+        "rssFeed": "https://www.runtastic.com/blog/en/category/tech/feed/",
+        "blogUrl": "https://www.runtastic.com/blog/en/category/tech/"
+    },
+    {
+        "title": "Uber",
+        "id": "uber",
+        "rssFeed": "https://eng.uber.com/feed/",
+        "blogUrl": "https://eng.uber.com"
+    }
+    
 ]
