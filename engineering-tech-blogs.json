@@ -88,5 +88,11 @@
         "id": "square",
         "rssFeed": "https://medium.com/feed/square-corner-blog",
         "blogUrl": "https://corner.squareup.com/"
+    },
+    {
+        "title": "Ebay",
+        "id": "ebay",
+        "rssFeed": "https://tech.ebayinc.com/rss/engineering",
+        "blogUrl": "https://tech.ebayinc.com/engineering"
     }
 ]
