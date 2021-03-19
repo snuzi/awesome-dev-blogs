@@ -1,5 +1,5 @@
-# awesome-tech-blogs
-Awesome blogs
+# Awesome Tech Blogs
+All blogs added in this repository are crawled by [engineering-blogs-aggregator](https://github.com/snuzi/engineering-blogs-aggregator) and displayed at [engineering-blogs-app](https://github.com/snuzi/engineering-blogs-app).
 
 ## Contribute
 1. Add tech engineering blogs [awesome-tech-blogs](https://github.com/snuzi/awesome-tech-blogs)
@@ -19,9 +19,15 @@ Awesome blogs
 
 #### A Engineering
 * Airbnb https://medium.com/airbnb-engineering
+* Asana https://blog.asana.com/category/eng/
+* AWS https://aws.amazon.com/blogs/aws/
 
 #### D Engineering
 * Docker https://www.docker.com/blog/category/engineering
+* Dropbox https://dropbox.tech/
+
+#### E Engineering
+* Ebay https://tech.ebayinc.com/engineering
 
 #### F Engineering
 * Facebook https://code.facebook.com/posts/
@@ -29,8 +35,24 @@ Awesome blogs
 #### G Engineering
 * Github https://github.blog/category/engineering
 
+#### M Engineering
+* Medium https://medium.com/medium-eng
+
 #### N Engineering
 * Netflix https://netflixtechblog.com/
+
+#### P Engineering
+* Paypal https://medium.com/paypal-engineering
+
+#### R Engineering
+* Runtastic https://www.runtastic.com/blog/en/category/tech/
+* Redhat https://developers.redhat.com/blog/
+
+#### S Engineering
+* Square https://corner.squareup.com/
+
+#### U Engineering
+* Uber https://eng.uber.com
 
 #### Z Engineering
 * Zalando https://engineering.zalando.com
