@@ -3,96 +3,112 @@
         "title": "Facebook",
         "id": "facebook",
         "rssFeed": "https://code.fb.com/feed",
-        "blogUrl": "https://code.facebook.com/posts/"
+        "blogUrl": "https://code.facebook.com/posts/",
+        "githubUsername": "facebook"
     },
      {
         "title": "Netflix",
         "id": "netflix",
         "rssFeed": "https://netflixtechblog.com/feed",
-        "blogUrl": "https://netflixtechblog.com"
+        "blogUrl": "https://netflixtechblog.com",
+        "githubUsername": "netflix"
     },
     {
         "title": "Airbnb",
         "id": "airbnb",
         "rssFeed": "https://medium.com/feed/airbnb-engineering",
-        "blogUrl": "https://medium.com/airbnb-engineering"
+        "blogUrl": "https://medium.com/airbnb-engineering",
+        "githubUsername": "airbnb"
     },
     {
         "title": "Github",
         "id": "github",
         "rssFeed": "https://github.blog/category/engineering/feed/",
-        "blogUrl": "https://github.blog/category/engineering"
+        "blogUrl": "https://github.blog/category/engineering",
+        "githubUsername": "github"
     },
     {
         "title": "Zalando",
         "id": "zalando",
         "rssFeed": "https://engineering.zalando.com/atom.xml",
-        "blogUrl": "https://engineering.zalando.com"
+        "blogUrl": "https://engineering.zalando.com",
+        "githubUsername": "zalando"
     },
     {
         "title": "Docker",
         "id": "docker",
         "rssFeed": "https://www.docker.com/blog/category/engineering/feed/",
-        "blogUrl": "https://www.docker.com/blog/category/engineering"
+        "blogUrl": "https://www.docker.com/blog/category/engineering",
+        "githubUsername": "docker"
     },
     {
         "title": "AWS",
         "id": "aws",
         "rssFeed": "https://aws.amazon.com/blogs/aws/feed/",
-        "blogUrl": "https://aws.amazon.com/blogs/aws/"
+        "blogUrl": "https://aws.amazon.com/blogs/aws/",
+        "githubUsername": "aws"
     },
     {
         "title": "Asana",
         "id": "asana",
         "rssFeed": "https://blog.asana.com/category/eng/feed/",
-        "blogUrl": "https://blog.asana.com/category/eng/"
+        "blogUrl": "https://blog.asana.com/category/eng/",
+        "githubUsername": "asana"
     },
      {
         "title": "Dropbox",
         "id": "dropbox",
         "rssFeed": "https://dropbox.tech/feed/",
-        "blogUrl": "https://dropbox.tech/"
+        "blogUrl": "https://dropbox.tech/",
+        "githubUsername": "dropbox"
     },
     {
         "title": "Medium",
         "id": "medium",
         "rssFeed": "https://medium.engineering/feed",
-        "blogUrl": "https://medium.com/medium-eng"
+        "blogUrl": "https://medium.com/medium-eng",
+        "githubUsername": "medium"
     },
     {
         "title": "Paypal",
         "id": "paypal",
         "rssFeed": "https://medium.com/feed/paypal-engineering",
-        "blogUrl": "https://medium.com/paypal-engineering"
+        "blogUrl": "https://medium.com/paypal-engineering",
+        "githubUsername": "paypal"
     },
     {
         "title": "Redhat",
         "id": "redhat",
         "rssFeed": "https://developers.redhat.com/blog/feed/",
-        "blogUrl": "https://developers.redhat.com/blog/"
+        "blogUrl": "https://developers.redhat.com/blog/",
+        "githubUsername": "RedHatOfficial"
     },
     {
         "title": "Runtastic",
         "id": "runtastic",
         "rssFeed": "https://www.runtastic.com/blog/en/category/tech/feed/",
-        "blogUrl": "https://www.runtastic.com/blog/en/category/tech/"
+        "blogUrl": "https://www.runtastic.com/blog/en/category/tech/",
+        "githubUsername": "runtastic"
     },
     {
         "title": "Uber",
         "id": "uber",
         "rssFeed": "https://eng.uber.com/feed/",
-        "blogUrl": "https://eng.uber.com"
+        "blogUrl": "https://eng.uber.com",
+        "githubUsername": "uber"
     },
     {
         "title": "Square",
         "id": "square",
         "rssFeed": "https://medium.com/feed/square-corner-blog",
-        "blogUrl": "https://corner.squareup.com/"
+        "blogUrl": "https://corner.squareup.com/",
+        "githubUsername": "square"
     },
     {
         "title": "Ebay",
         "id": "ebay",
         "rssFeed": "https://tech.ebayinc.com/rss/engineering",
-        "blogUrl": "https://tech.ebayinc.com/engineering"
+        "blogUrl": "https://tech.ebayinc.com/engineering",
+        "githubUsername": "ebay"
     }
 ]
