@@ -1,4 +1,4 @@
-# Awesome Tech Blogs
+# Awesome Tech Dev Blogs
 All blogs added in this repository are crawled by [engineering-blogs-aggregator](https://github.com/snuzi/engineering-blogs-aggregator) and displayed at [devblogs.net](https://github.com/snuzi/devblogs).
 
 ## Contribute
