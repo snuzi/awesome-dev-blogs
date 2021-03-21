@@ -1,0 +1,18 @@
+[
+    {
+        "title": "DeveloperAspire",
+        "rssFeed": "https://developeraspire.hashnode.dev/rss.xml",
+        "blogUrl": "https://developeraspire.hashnode.dev",
+        "image": "https://avatars.githubusercontent.com/u/57295537",
+        "githubUsername": "DeveloperAspire",
+        "tags": [
+            "Golang",
+            "TailwindCSS",
+            "Vue",
+            "Node.js",
+            "Web Development",
+            "Open source",
+            "JavaScript"
+        ]
+    }
+]
