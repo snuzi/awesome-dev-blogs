@@ -2,8 +2,8 @@
 All blogs added in this repository are crawled by [engineering-blogs-aggregator](https://github.com/snuzi/engineering-blogs-aggregator) and displayed at [devblogs.net](https://github.com/snuzi/devblogs).
 
 ## Contribute
-1. Add tech engineering blogs [awesome-dev-blogs](https://github.com/snuzi/awesome-dev-blogs)
-
+1. Add your dev blog [awesome-dev-blogs](https://github.com/snuzi/awesome-dev-blogs)
+2. Frontend application [devblogs.net](https://github.com/snuzi/devblogs)
 2. Frontend application [devblogs.net](https://github.com/snuzi/devblogs)
 
 3. Blog aggregator [engineering-blogs-aggregator](https://github.com/snuzi/engineering-blogs-aggregator)
