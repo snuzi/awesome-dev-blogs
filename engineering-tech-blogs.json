@@ -127,15 +127,9 @@
     },
     {
         "title": "Spotify",
-        "rssFeed": "https://labs.spotify.com/feed/",
-        "blogUrl": "https://labs.spotify.com",
+        "rssFeed": "https://engineering.atspotify.com/feed/",
+        "blogUrl": "https://engineering.atspotify.com",
         "githubUsername": "spotify"
-    },
-    {
-        "title": "Lyft",
-        "rssFeed": "https://eng.lyft.com/feed",
-        "blogUrl": "https://eng.lyft.com",
-        "githubUsername": "lyft"
     },
     {
         "title": "Lyft",
