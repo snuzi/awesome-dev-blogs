@@ -100,5 +100,53 @@
         "rssFeed": "http://feeds.feedburner.com/blogspot/gJZg",
         "blogUrl": "https://ai.googleblog.com",
         "githubUsername": "google-research"
+    },
+    {
+        "title": "Slack",
+        "rssFeed": "https://slack.engineering/feed/",
+        "blogUrl": "https://slack.engineering",
+        "githubUsername": "slackhq"
+    },
+    {
+        "title": "Cloudflare",
+        "rssFeed": "https://blog.cloudflare.com/rss/",
+        "blogUrl": "https://blog.cloudflare.com",
+        "githubUsername": "cloudflare"
+    },
+    {
+        "title": "OpenAI",
+        "rssFeed": "https://openai.com/blog/rss/",
+        "blogUrl": "https://openai.com/blog",
+        "githubUsername": "openai"
+    },
+    {
+        "title": "NVIDIA Corporation",
+        "rssFeed": "https://devblogs.nvidia.com/feed/",
+        "blogUrl": "https://devblogs.nvidia.com",
+        "githubUsername": "nvidia"
+    },
+    {
+        "title": "Spotify",
+        "rssFeed": "https://labs.spotify.com/feed/",
+        "blogUrl": "https://labs.spotify.com",
+        "githubUsername": "spotify"
+    },
+    {
+        "title": "Lyft",
+        "rssFeed": "https://eng.lyft.com/feed",
+        "blogUrl": "https://eng.lyft.com",
+        "githubUsername": "lyft"
+    },
+    {
+        "title": "Lyft",
+        "rssFeed": "https://eng.lyft.com/feed",
+        "blogUrl": "https://eng.lyft.com",
+        "githubUsername": "lyft"
+    },
+    {
+        "title": "Stack Overflow",
+        "rssFeed": "https://stackoverflow.blog/engineering/feed/",
+        "blogUrl": "https://stackoverflow.blog/engineering",
+        "githubUsername": "StackExchange"
     }
 ]
