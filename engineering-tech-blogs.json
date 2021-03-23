@@ -94,5 +94,11 @@
         "rssFeed": "https://tech.ebayinc.com/rss/engineering",
         "blogUrl": "https://tech.ebayinc.com/engineering",
         "githubUsername": "ebay"
+    },
+    {
+        "title": "Google AI Research",
+        "rssFeed": "http://feeds.feedburner.com/blogspot/gJZg",
+        "blogUrl": "https://ai.googleblog.com",
+        "githubUsername": "google-research"
     }
 ]
