@@ -126,12 +126,6 @@
         "githubUsername": "nvidia"
     },
     {
-        "title": "Spotify",
-        "rssFeed": "https://engineering.atspotify.com/feed/",
-        "blogUrl": "https://engineering.atspotify.com",
-        "githubUsername": "spotify"
-    },
-    {
         "title": "Lyft",
         "rssFeed": "https://eng.lyft.com/feed",
         "blogUrl": "https://eng.lyft.com",
@@ -142,5 +136,11 @@
         "rssFeed": "https://stackoverflow.blog/engineering/feed/",
         "blogUrl": "https://stackoverflow.blog/engineering",
         "githubUsername": "StackExchange"
+    },
+    {
+        "title": "Spotify",
+        "rssFeed": "https://engineering.atspotify.com/feed/",
+        "blogUrl": "https://engineering.atspotify.com",
+        "githubUsername": "spotify"
     }
 ]
