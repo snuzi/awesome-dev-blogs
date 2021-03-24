@@ -142,5 +142,29 @@
         "rssFeed": "https://engineering.atspotify.com/feed/",
         "blogUrl": "https://engineering.atspotify.com",
         "githubUsername": "spotify"
+    },
+    {
+	    "title": "Cloudera",
+	    "rssFeed": "https://blog.cloudera.com/category/technical/feed",
+	    "blogUrl": "https://blog.cloudera.com/category/technical/",
+	    "githubUsername": "cloudera"
+    },
+    {
+	    "title": "WePay",
+	    "rssFeed": "https://wecode.wepay.com/feed.xml",
+	    "blogUrl": "https://wecode.wepay.com",
+	    "githubUsername": "wepay"
+    },
+    {
+	    "title": "BBC",
+	    "rssFeed": "https://medium.com/feed/bbc-design-engineering",
+	    "blogUrl": "https://medium.com/bbc-design-engineering",
+	    "githubUsername": "BBC"
+    },
+    {
+    	"title": "The New York Times",
+	    "rssFeed": "https://open.nytimes.com/feed",
+	    "blogUrl": "https://open.nytimes.com",
+	    "githubUsername": "NYTimes"
     }
 ]
