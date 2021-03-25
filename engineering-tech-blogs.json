@@ -144,27 +144,81 @@
         "githubUsername": "spotify"
     },
     {
-	    "title": "Cloudera",
-	    "rssFeed": "https://blog.cloudera.com/category/technical/feed",
-	    "blogUrl": "https://blog.cloudera.com/category/technical/",
-	    "githubUsername": "cloudera"
+	"title": "Cloudera",
+	"rssFeed": "https://blog.cloudera.com/category/technical/feed",
+	"blogUrl": "https://blog.cloudera.com/category/technical/",
+	"githubUsername": "cloudera"
     },
     {
-	    "title": "WePay",
-	    "rssFeed": "https://wecode.wepay.com/feed.xml",
-	    "blogUrl": "https://wecode.wepay.com",
-	    "githubUsername": "wepay"
+	"title": "WePay",
+	"rssFeed": "https://wecode.wepay.com/feed.xml",
+	"blogUrl": "https://wecode.wepay.com",
+	"githubUsername": "wepay"
     },
     {
-	    "title": "BBC",
-	    "rssFeed": "https://medium.com/feed/bbc-design-engineering",
-	    "blogUrl": "https://medium.com/bbc-design-engineering",
-	    "githubUsername": "BBC"
+	"title": "BBC",
+	"rssFeed": "https://medium.com/feed/bbc-design-engineering",
+	"blogUrl": "https://medium.com/bbc-design-engineering",
+	"githubUsername": "BBC"
     },
     {
     	"title": "The New York Times",
-	    "rssFeed": "https://open.nytimes.com/feed",
-	    "blogUrl": "https://open.nytimes.com",
-	    "githubUsername": "NYTimes"
+	"rssFeed": "https://open.nytimes.com/feed",
+	"blogUrl": "https://open.nytimes.com",
+	"githubUsername": "NYTimes"
+    },	
+    {
+        "title": "Eventbrite",
+        "rssFeed": "https://www.eventbrite.com/engineering/feed/",
+        "blogUrl": "https://www.eventbrite.com/engineering",
+        "githubUsername": "eventbrite"
+    },	
+    {
+        "title": "The Guardian",
+        "rssFeed": "https://www.theguardian.com/info/series/engineering-blog/rss",
+        "blogUrl": "https://www.theguardian.com/info/series/engineering-blog",
+        "githubUsername": "guardian"
+    },	
+    {
+        "title": "IBM",
+        "rssFeed": "https://developer.ibm.com/blogs/feed/",
+        "blogUrl": "https://developer.ibm.com/blogs",
+        "githubUsername": "IBM"
+    },
+    {
+        "title": "Khan Academy",
+        "rssFeed": "https://blog.khanacademy.org/engineering/feed/",
+        "blogUrl": "https://blog.khanacademy.org/engineering",
+        "githubUsername": "khan"
+    },
+    {
+        "title": "Linkedin",
+        "rssFeed": "https://engineering.linkedin.com/blog.rss.html",
+        "blogUrl": "https://engineering.linkedin.com/blog",
+        "githubUsername": "linkedin"
+    },
+    {
+        "title": "LINE",
+        "rssFeed": "https://engineering.linecorp.com/en/feed/",
+        "blogUrl": "https://engineering.linecorp.com/en/blog/",
+        "githubUsername": "line"
+    },
+    {
+        "title": "Okta",
+        "rssFeed": "https://developer.okta.com/feed.xml",
+        "blogUrl": "https://developer.okta.com/blog/",
+        "githubUsername": "okta"
+    },
+    {
+        "title": "Toptal",
+        "rssFeed": "https://www.toptal.com/developers/blog.rss",
+        "blogUrl": "https://www.toptal.com/developers/blog",
+        "githubUsername": "toptal"
+    },
+    {
+        "title": "Pinterest",
+        "rssFeed": "https://medium.com/feed/@Pinterest_Engineering",
+        "blogUrl": "https://medium.com/@Pinterest_Engineering",
+        "githubUsername": "pinterest"
     }
 ]
