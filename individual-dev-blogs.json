@@ -1,3 +1,14 @@
 [
-    
+    {
+        "title": "Marko Denic",
+        "rssFeed": "https://denic.hashnode.dev/rss.xml",
+        "blogUrl": "https://denic.hashnode.dev",
+        "githubUsername": "MarkoDenic"
+    },
+    {
+        "title": "Adrian Bece",
+        "rssFeed": "https://codeadrian.hashnode.dev/rss.xml",
+        "blogUrl": "https://codeadrian.hashnode.dev",
+        "githubUsername": "codeAdrian"
+    }
 ]
