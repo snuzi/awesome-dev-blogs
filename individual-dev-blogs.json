@@ -10,5 +10,11 @@
         "rssFeed": "https://codeadrian.hashnode.dev/rss.xml",
         "blogUrl": "https://codeadrian.hashnode.dev",
         "githubUsername": "codeAdrian"
-    }
+    },
+    {
+        "title": "Orangemn6",
+        "rssFeed": "https://blog.orangemn6.xyz/rss.xml",
+        "blogUrl": "https://blog.orangemn6.xyz",
+        "githubUsername": "orangemn6"
+    },
 ]
