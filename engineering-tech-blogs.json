@@ -220,5 +220,11 @@
         "rssFeed": "https://medium.com/feed/@Pinterest_Engineering",
         "blogUrl": "https://medium.com/@Pinterest_Engineering",
         "githubUsername": "pinterest"
+    },
+    {
+        "title": "LogRocket",
+        "rssFeed": "https://blog.logrocket.com/feed/",
+        "blogUrl": "https://blog.logrocket.com",
+        "githubUsername": "LogRocket"
     }
 ]
