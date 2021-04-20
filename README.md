@@ -63,9 +63,10 @@ All blogs added in this repository are crawled by [devblogs-aggregator](https://
 * Linkedin https://engineering.linkedin.com/blog
 * LINE https://engineering.linecorp.com/en/blog
 * LogRocket https://blog.logrocket.com
-* 
+
 #### M Company
 * Medium https://medium.com/medium-eng
+* Microsoft https://devblogs.microsoft.com
 
 #### N Company
 * Netflix https://netflixtechblog.com/
