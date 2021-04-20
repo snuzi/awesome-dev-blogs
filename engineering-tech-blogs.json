@@ -226,5 +226,11 @@
         "rssFeed": "https://blog.logrocket.com/feed/",
         "blogUrl": "https://blog.logrocket.com",
         "githubUsername": "LogRocket"
+    },
+    {
+        "title": "Microsoft",
+        "rssFeed": "https://devblogs.microsoft.com/landingpage/",
+        "blogUrl": "https://devblogs.microsoft.com",
+        "githubUsername": "microsoft"
     }
 ]
