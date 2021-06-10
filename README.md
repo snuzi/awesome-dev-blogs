@@ -89,6 +89,7 @@ All blogs added in this repository are crawled by [devblogs-aggregator](https://
 * Slack https://slack.engineering
 * Stack Overflow https://stackoverflow.blog/engineering
 * Spotify https://engineering.atspotify.com
+* Shopify https://shopify.engineering/
 
 #### T Company
 * The New York Times https://open.nytimes.com
