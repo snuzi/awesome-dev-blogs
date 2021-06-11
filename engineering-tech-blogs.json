@@ -233,10 +233,4 @@
         "blogUrl": "https://devblogs.microsoft.com",
         "githubUsername": "microsoft"
     },
-    {
-        "title": "Shopify",
-        "rssFeed": "https://shopify.engineering/blog.atom",
-        "blogUrl": "https://shopify.engineering/",
-        "githubUsername": "Shopify"
-    },
 ]
