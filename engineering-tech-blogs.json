@@ -238,5 +238,11 @@
         "rssFeed": "https://shopify.engineering/blog.atom",
         "blogUrl": "https://shopify.engineering/",
         "githubUsername": "Shopify"
+    },
+    {
+        "title": "DoorDash",
+	"rssFeed": "https://doordash.engineering/feed/",
+        "blogUrl": "https://doordash.engineering/",
+        "githubUsername": "DoorDash"
     }
 ]
